@@ -1,2 +1,3 @@
 ini adalah perubahan pertama.
 ini adalah perubahan yang dilakukan di cabang1
+ini perubahan baru dari cabang1
